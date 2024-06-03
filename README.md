@@ -76,7 +76,7 @@ have successfully implemented automated dashboards that have saved countless hou
 
 ## Projects
 
-### Airline Resource Management System (ARMS)
+### ![Airline Resource Management System(ARMS)](https://github.com/amitgrewal4/1_Project_Aviation_Arms.git)
 - Digital technology solution for flight planning & operations, and crew management.
 
 ### eGCA Portal
@@ -84,4 +84,5 @@ have successfully implemented automated dashboards that have saved countless hou
 
 ### University Projects
 - Design & Implementation of Transport Database
-- Data Visualization of Seek
+- ![Data Visualization of Seek](https://github.com/amitgrewal4/2_Project_Data_Visualisation_Seek.com.au.git)
+- ![Social media analytics of music band Coldplay](https://github.com/amitgrewal4/3_Project_social_media_analytics_coldplay.git)
